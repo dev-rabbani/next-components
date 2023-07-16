@@ -1,9 +1,9 @@
-import { Button } from "@/src/components/ui/button";
+import { ShopifySectionOne } from "@/src/sections/inspiration/shopify-section-one";
 
 export default function Home() {
   return (
     <div>
-      <Button variant={"destructive"}>Test Button</Button>
+      <ShopifySectionOne />
     </div>
   );
 }
