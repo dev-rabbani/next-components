@@ -39,6 +39,6 @@
     "clsx": "^1.2.1",
     "eslint-plugin-storybook": "^0.6.12",
     "storybook": "^7.0.27",
-    "tailwind-merge": "^1.13.2"
+    "tailwind-merge": "^1.14.0"
   }
 }
